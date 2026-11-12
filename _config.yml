@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Ga-Yeong Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Research Scientist<br>Department of Civil & Environmental Engineering"
+  bio              : "Research Scientist"
   location         : "Urbana, IL"
-  employer         : "University of Illinois Urbana-Champaign (UIUC)"
+  employer         : "Department of Civil & Environmental Engineering<br>University of Illinois Urbana-Champaign (UIUC)"
   uri              : # URL
   email            : "gayeong@illinois.edu" 
 
