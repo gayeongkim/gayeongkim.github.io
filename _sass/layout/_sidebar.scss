@@ -324,3 +324,9 @@
     }
   }
 }
+
+/* Allow affiliation to wrap onto multiple lines */
+.author__urls .author__employer {
+  white-space: normal;
+  overflow-wrap: break-word;
+}
